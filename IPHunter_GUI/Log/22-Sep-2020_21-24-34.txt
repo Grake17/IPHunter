@@ -1,0 +1,17 @@
+Insert Ip: 40.68.249.35
+
+Response: 
+C:\IpHunter>Insert Ip: 40.68.249.35
+The ip isn't in your network
+The input IP is Class: A
+Domain: microsoft.com
+ISP: Microsoft Corporation
+TotalReports: 0
+IsWhiteListed?: None
+Continent: Europe
+Country: Netherlands
+Region: North Holland
+City: Diemen
+UsageType: Data Center/Web Hosting/Transit
+
+Insert a new Ip for serch again.

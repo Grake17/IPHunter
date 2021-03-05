@@ -1,0 +1,14 @@
+Insert Ip: 8.8.8.8
+
+Response: 
+The ip isn't in your network
+The input IP is Class: A
+
+Continent: North America
+Country: United States
+City: Ashburn
+ISP: Google LLC
+UsageType: Data Center/Web Hosting/Transit
+Domain: google.com
+TotalReports: 21
+IsWhiteListed?: True

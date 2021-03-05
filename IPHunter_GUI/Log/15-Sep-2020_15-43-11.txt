@@ -1,0 +1,17 @@
+Insert Ip: 208.67.222.222
+
+Response: 
+C:\IpHunter>Insert Ip: 208.67.222.222
+The ip isn't in your network
+The input IP is Class: C
+Domain: opendns.com
+ISP: OpenDNS, LLC
+TotalReports: 21
+IsWhiteListed?: False
+Continent: North America
+Country: United States
+Region: Illinois
+City: Chicago
+UsageType: Data Center/Web Hosting/Transit
+
+Insert a new Ip for serch again.

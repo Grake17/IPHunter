@@ -1,0 +1,17 @@
+Insert Ip: 194.37.80.6
+
+Response: 
+C:\IpHunter>Insert Ip: 194.37.80.6
+The ip isn't in your network
+The input IP is Class: C
+Domain: None
+ISP: 23media GmbH
+TotalReports: 1
+IsWhiteListed?: False
+Continent: Europe
+Country: Germany
+Region: Hessen
+City: Frankfurt am Main
+UsageType: Commercial
+
+Insert a new Ip for serch again.

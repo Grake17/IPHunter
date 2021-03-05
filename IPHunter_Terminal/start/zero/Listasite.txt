@@ -1,0 +1,14 @@
+https://portal.msrc.microsoft.com/en-us/security-guidance
+https://access.redhat.com/security/security-updates/#/
+https://www.vmware.com/security/advisories.html
+https://www.oracle.com/security-alerts/cvssscoringsystem.html
+https://www.oracle.com/security-alerts/
+https://support.hpe.com/portal/site/hpsc/public/kb/secBullArchive/
+https://www.ibm.com/security/secure-engineering/bulletins.html
+https://www.ibm.com/blogs/psirt
+https://www.debian.org/security/#DSAS
+https://security-team.debian.org/security_tracker.html
+https://people.canonical.com/~ubuntu-security/cve/
+https://people.canonical.com/~ubuntu-security/cve/priority.html
+https://lists.centos.org/pipermail/centos-announce/
+https://access.redhat.com/security/security-updates/#/

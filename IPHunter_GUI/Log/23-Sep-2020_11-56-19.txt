@@ -1,0 +1,17 @@
+Insert Ip: 129.28.27.25
+
+Response: 
+C:\IpHunter>Insert Ip: 129.28.27.25
+The ip isn't in your network
+The input IP is Class: B
+Domain: tencent.com
+ISP: Tencent Cloud Computing (Beijing) Co. Ltd
+TotalReports: 1
+IsWhiteListed?: False
+Continent: Asia
+Country: China
+Region: Beijing
+City: Beijing
+UsageType: Data Center/Web Hosting/Transit
+
+Insert a new Ip for serch again.
