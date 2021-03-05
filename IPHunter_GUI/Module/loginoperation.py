@@ -113,9 +113,9 @@ def send_email(email,code):
     try:
         port = 465  # For SSL
         smtp_server = "smtp.gmail.com"
-        sender_email = "iphunter70@gmail.com"  # Enter your address
+        sender_email = "insert@gmail.com"  # Enter your address
         receiver_email = email  # Enter receiver address
-        password = "RDlttvzzcPJQEDZDiMwW"
+        password = "insert-password"
         message = 'Subject: {}\n\n{}'.format("Restore Password", code)
         context = ssl.create_default_context()
         with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
